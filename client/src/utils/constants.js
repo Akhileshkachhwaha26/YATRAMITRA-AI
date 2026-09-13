@@ -57,3 +57,11 @@ export function formatINR(amount) {
     amount
   );
 }
+
+export function buildWhatsAppLink(phone, message = '') {
+  if (!phone) return null;
+  const digits = String(phone).replace(/[^\d]/g, '');
+  if (!digits) return null;
+  const withCountryCode = digits.length === 10 ? `91${digits}` : digits;
+  return `https://wa.me/${withCountryCode}${message ? `?text=${encodeURIComponent(message)}` : ''}`;
+}
