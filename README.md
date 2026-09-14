@@ -10,6 +10,12 @@
 
 <br>
 
+### 🚀 [**Live Demo →**](https://yatramitra-ai-2.onrender.com)
+
+<sub>⏳ Hosted on Render's free tier — the first load after inactivity may take 30–50s to wake up.</sub>
+
+<br>
+
 <!-- Tech stack stickers -->
 <p>
 <img src="https://img.shields.io/badge/Node.js-18%2B-339933?style=for-the-badge&logo=node.js&logoColor=white">
@@ -41,6 +47,7 @@
 
 | 🏷️ | Details |
 |---|---|
+| **Live Demo** | [yatramitra-ai-2.onrender.com](https://yatramitra-ai-2.onrender.com) |
 | **Problem Statement ID** | `26204` |
 | **Title** | Student Innovation — a solution/idea that can boost the current situation of the tourism industries including hotels, travel and others |
 | **Organization** | AICTE |
